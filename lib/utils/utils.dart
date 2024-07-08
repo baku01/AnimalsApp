@@ -1,0 +1,1 @@
+const String apiUrl = 'https://freetestapi.com/api/v1/animals';
